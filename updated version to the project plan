@@ -1,0 +1,94 @@
+Project Plan: My Training App
+Team Members: Raghad Alsulami
+
+Overview
+My Training App aims to streamline the process of finding and applying for training opportunities. It brings together students and organizations on a single platform, providing comprehensive information, facilitating applications, and enhancing user experience. The project will be developed for Android devices using Java and Firebase.
+Timeline
+•	Phase 1: Planning and Analysis
+Duration: 2 weeks
+Tasks:
+o	Define project scope, objectives, and deliverables.
+o	Conduct market research and competitor analysis.
+o	Gather requirements.
+o	Create wireframes and prototype.
+o	Finalize project plan and roles.
+
+•	Phase 2: Design and Prototyping
+Duration: 2 weeks
+Tasks:
+o	Design UI/UX for the mobile app.
+o	Develop database schema and backend architecture.
+o	Implement user registration and profile management.
+o	Build CV creation and editing functionality.
+o	Design training offer listings and search features.
+
+•	Phase 3: Development
+Duration: 4 weeks
+Tasks:
+o	Develop front-end using Java for Android.
+o	Implement backend logic for data handling.
+o	Integrate Firebase for real-time database operations.
+o	Create applicant application process.
+o	Build organization account management features.
+
+•	Phase 4: Testing and Quality Assurance
+Duration: 1 week
+Tasks:
+o	Conduct unit testing for individual components.
+o	Perform integration testing for end-to-end functionality.
+o	Debug and fix any issues or bugs.
+o	Ensure app usability and performance meet standards.
+
+•	Phase 5: Deployment and Launch
+Duration: 1 week
+Tasks:
+o	Prepare app for deployment on Google Play Store.
+o	Create marketing materials and promotional strategies.
+o	Conduct final user acceptance testing.
+o	Launch the app and monitor initial user feedback.
+
+Budget Allocation:
+o	Development Tools and Licenses
+o	Cloud Hosting Services (Firebase)
+o	Marketing and Promotion Expenses
+o	Maintenance and Support Costs
+o	Risks and Mitigation Strategies
+
+Technical Risks:
+o	Ensure thorough testing at each development phase.
+o	I have backup plans for server downtime or data loss.
+
+Features and Value Delivery:
+1. User Registration and Profile Management
+Value Delivered: Enables users to access the platform, personalize their experience, and apply for training offers seamlessly.
+Justification: This feature forms the foundation for user engagement and interaction within the app. It allows users to create and manage their profiles, making it easier for them to explore training opportunities and connect with organizations.
+
+
+2. Training Offer Listings
+Value Delivered: Provides users with a comprehensive view of available training opportunities, aiding in informed decision-making.
+Justification: Listing training offers helps users discover relevant opportunities based on their interests, location, and preferences. It enhances the user experience by presenting essential information about each offer upfront.
+3. Applicant Apply
+Value Delivered: Facilitates the application process, allowing users to apply for training offers efficiently.
+Justification: This feature streamlines the interaction between users and organizations, making it convenient for applicants to express interest in specific offers.
+4. Company Profiles
+Value Delivered: Offers insights into participating companies, their offerings, and reputation, helping users make informed decisions.
+Justification: Detailed company profiles enhance transparency and trust, crucial for users evaluating training opportunities.
+5. CV Creation and Editing
+Value Delivered: Allows users to showcase their qualifications and skills effectively, increasing visibility and chances of successful applications.
+Justification: Creating and editing CVs within the app streamlines the application process for users, making it convenient to update their information and present themselves attractively to potential employers.
+6. Recommended Offers
+Value Delivered: Provides personalized recommendations, saving users time and effort in finding suitable opportunities.
+Justification: Recommending offers based on user CVs enhances user experience by offering tailored suggestions.
+7. View Training Offers and Reviews
+Value Delivered: Offers comprehensive information about training offers and insights from previous applicants, aiding users in making informed decisions.
+Justification: Providing access to detailed offer information and reviews helps users evaluate opportunities effectively.
+8. Rate Training Offers
+Value Delivered: Allows users to share feedback and experiences, contributing to a transparent and trustworthy platform.
+Justification: Allowing users to rate and review training offers promotes transparency and accountability among organizations.
+
+9. Organization Account Management
+Value Delivered: Empowers organizations to manage their profiles and training offers efficiently, facilitating better engagement with applicants.
+Justification: Offering organization account management features ensures that organizations can effectively showcase their offerings and interact with applicants.
+10. Training Offer Management (Organization)
+Value Delivered: Streamlines the process of adding, managing, and viewing training offers, enhancing organization-user interactions.
+Justification: Providing tools for organizations to manage their training offers within the app simplifies the process and increases their engagement with potential applicants.
